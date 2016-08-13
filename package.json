@@ -1,6 +1,7 @@
 {
   "name": "webui-popover",
   "title": "jQuery WebUI Popover plugin",
+  "main": "dist/jquery.webui-popover.js",
   "description": "A enhancement popover plugin for Bootstrap ,but you can use it stand-alone without Bootstrap!",
   "author": "Sandy Duan <sanddywalker@gmail.com>",
   "homepage": "https://github.com/sandywalker/webui-popover",
